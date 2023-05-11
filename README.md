@@ -24,7 +24,7 @@ The datasets can be obtained and put into `dataset/` folder
 * [Highways Traffic](http://data.gov.uk/dataset/highways-england-network-journey-time-and-traffic-flow-data)
 * [PM2.5](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data)
 * [EEG](https://archive.ics.uci.edu/ml/datasets/EEG+Steady-State+Visual+Evoked+Potential+Signals)
-* [ETT](https://github.com/zhouhaoyi/ETDataset).
+* [ETT](https://github.com/zhouhaoyi/ETDataset)
 
 ## Usage
 
