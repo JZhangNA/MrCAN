@@ -20,10 +20,10 @@ pip install -r requirements.txt
 
 The datasets can be obtained and put into `dataset/` folder
 
-* [SML2010](https://archive.ics.uci.edu/ml/datasets/sml2010).
-* [Highways Traffic](http://data.gov.uk/dataset/highways-england-network-journey-time-and-traffic-flow-data).
-* [PM2.5](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data).
-* [EEG](https://archive.ics.uci.edu/ml/datasets/EEG+Steady-State+Visual+Evoked+Potential+Signals).
+* [SML2010](https://archive.ics.uci.edu/ml/datasets/sml2010)
+* [Highways Traffic](http://data.gov.uk/dataset/highways-england-network-journey-time-and-traffic-flow-data)
+* [PM2.5](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data)
+* [EEG](https://archive.ics.uci.edu/ml/datasets/EEG+Steady-State+Visual+Evoked+Potential+Signals)
 * [ETT](https://github.com/zhouhaoyi/ETDataset).
 
 ## Usage
